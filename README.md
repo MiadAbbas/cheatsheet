@@ -31,4 +31,6 @@
 | $ apt | Package managers depending on the dist.
 | $ top | View active processes live with their system usage 
 | $ passwd | Create or update passwords for existing users. 
+| less|[Dateiname]: Zeigt uns den inhalt der datei in zeile an, so das wir bei einer datei, die mehr platz weg nimmt als das terminal, wir die inhalte schritt für schritt anschauen können
+| more | Wie less, allerdings zeigt uns der more befehl an, wieviel vom dokument an der aktuellen stelle noch übrig ist.
 
